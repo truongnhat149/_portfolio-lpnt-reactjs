@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/_portfolio-lpnt-reactjs/static/css/main.0fba4758.chunk.css",
+    "main.js": "/_portfolio-lpnt-reactjs/static/js/main.224b0e0a.chunk.js",
+    "main.js.map": "/_portfolio-lpnt-reactjs/static/js/main.224b0e0a.chunk.js.map",
+    "runtime-main.js": "/_portfolio-lpnt-reactjs/static/js/runtime-main.451646b4.js",
+    "runtime-main.js.map": "/_portfolio-lpnt-reactjs/static/js/runtime-main.451646b4.js.map",
+    "static/js/2.1550188d.chunk.js": "/_portfolio-lpnt-reactjs/static/js/2.1550188d.chunk.js",
+    "static/js/2.1550188d.chunk.js.map": "/_portfolio-lpnt-reactjs/static/js/2.1550188d.chunk.js.map",
+    "index.html": "/_portfolio-lpnt-reactjs/index.html",
+    "static/css/main.0fba4758.chunk.css.map": "/_portfolio-lpnt-reactjs/static/css/main.0fba4758.chunk.css.map",
+    "static/js/2.1550188d.chunk.js.LICENSE.txt": "/_portfolio-lpnt-reactjs/static/js/2.1550188d.chunk.js.LICENSE.txt",
+    "static/media/How.42a61459.jpg": "/_portfolio-lpnt-reactjs/static/media/How.42a61459.jpg",
+    "static/media/about.2b4796d4.jpg": "/_portfolio-lpnt-reactjs/static/media/about.2b4796d4.jpg",
+    "static/media/address.a01cb8cc.png": "/_portfolio-lpnt-reactjs/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/_portfolio-lpnt-reactjs/static/media/email.a49e0158.png",
+    "static/media/moon.3bea3d39.png": "/_portfolio-lpnt-reactjs/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/_portfolio-lpnt-reactjs/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/_portfolio-lpnt-reactjs/static/media/sun.f794832a.png",
+    "static/media/work1.e87903a8.png": "/_portfolio-lpnt-reactjs/static/media/work1.e87903a8.png",
+    "static/media/work2.2c56dea9.jpg": "/_portfolio-lpnt-reactjs/static/media/work2.2c56dea9.jpg",
+    "static/media/work3.4321d4b7.jpg": "/_portfolio-lpnt-reactjs/static/media/work3.4321d4b7.jpg",
+    "static/media/work4.4fa880fd.jpg": "/_portfolio-lpnt-reactjs/static/media/work4.4fa880fd.jpg",
+    "static/media/work5.a7f3220c.jpg": "/_portfolio-lpnt-reactjs/static/media/work5.a7f3220c.jpg",
+    "static/media/work6.71c746fa.jpg": "/_portfolio-lpnt-reactjs/static/media/work6.71c746fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.451646b4.js",
+    "static/js/2.1550188d.chunk.js",
+    "static/css/main.0fba4758.chunk.css",
+    "static/js/main.224b0e0a.chunk.js"
+  ]
+}
