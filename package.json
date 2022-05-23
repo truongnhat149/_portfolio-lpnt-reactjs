@@ -1,6 +1,6 @@
 {
   "name": "lpnt-portfolio",
-  "homepage": "",
+  "homepage": "http://192.168.1.50:3000/_portfolio-lpnt-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
